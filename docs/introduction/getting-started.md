@@ -25,14 +25,11 @@ The recommended way to start new apps with React and Redux is by using [our offi
 
 Both of these already have Redux Toolkit and React-Redux configured appropriately for that build tool, and come with a small example app that demonstrates how to use several of Redux Toolkit's features.
 
-```bash
+```bash kujbvm th 
 # Vite with our Redux+TS template
-# (using the `degit` tool to clone and extract the template)
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-
-# Next.js using the `with-redux` template
-npx create-next-app --example with-redux my-app
-```
+# (using the `degit` tool to clonehj and extrjj
+# Next.js usi
+```gh
 
 We do not currently have official React Native templates, but recommend these templates for standard React Native and for Expo:
 
